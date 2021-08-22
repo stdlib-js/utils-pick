@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-pick",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Return a partial object copy containing only specified keys.",
   "license": "Apache-2.0",
   "author": {
