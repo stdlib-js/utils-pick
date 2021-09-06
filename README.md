@@ -139,6 +139,12 @@ var obj2 = pick( obj1, [ 'b', 'c', 'e' ] );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/pick-by`][@stdlib/utils/pick-by]: return a partial object copy containing properties for which a predicate (function) returns a truthy value.
+
 </section>
 
 <!-- /.related -->
@@ -199,6 +205,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-pick/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/pick-by]: https://github.com/stdlib-js/utils-pick-by
+
+<!-- </related-links> -->
 
 </section>
 
