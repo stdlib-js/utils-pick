@@ -151,7 +151,7 @@ var obj2 = pick( obj1, [ 'b', 'c', 'e' ] );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/pick-by`][@stdlib/utils/pick-by]</span><span class="delimiter">: </span><span class="description">return a partial object copy containing properties for which a predicate (function) returns a truthy value.</span>
+-   <span class="package-name">[`@stdlib/utils-pick-by`][@stdlib/utils/pick-by]</span><span class="delimiter">: </span><span class="description">return a partial object copy containing properties for which a predicate (function) returns a truthy value.</span>
 
 </section>
 
