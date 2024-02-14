@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@esm/index.mjs';
+import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@v0.2.0-esm/index.mjs';
 ```
 
 #### pick( obj, keys )
@@ -117,7 +117,7 @@ var obj2 = pick( obj1, 'd' );
 <body>
 <script type="module">
 
-import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@esm/index.mjs';
+import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@v0.2.0-esm/index.mjs';
 
 var obj1 = {
     'a': 1,
