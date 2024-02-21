@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@deno/mod.js';
+import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@v0.2.1-deno/mod.js';
 ```
 
 #### pick( obj, keys )
@@ -112,7 +112,7 @@ var obj2 = pick( obj1, 'd' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@deno/mod.js';
+import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@v0.2.1-deno/mod.js';
 
 var obj1 = {
     'a': 1,
