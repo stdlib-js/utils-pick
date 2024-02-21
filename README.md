@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-pick/tags). For example,
+
+```javascript
 import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@v0.2.1-deno/mod.js';
 ```
 
@@ -112,7 +117,7 @@ var obj2 = pick( obj1, 'd' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@v0.2.1-deno/mod.js';
+import pick from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-pick@deno/mod.js';
 
 var obj1 = {
     'a': 1,
